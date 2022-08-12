@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon-widget_support</name>
+   <tag></tag>
+   <elementGuidId>d88e973e-25d5-432b-ae10-582a8a05f887</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.sc-jrsJWt.hpQRmZ.icon-widget_support</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='buttonSupport']/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>9fd86d54-b06b-4f4b-a43a-a9d3661172d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-jrsJWt hpQRmZ icon-widget_support</value>
+      <webElementGuid>76489bfd-b75c-4079-91b4-2be216cb66b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>#FFFFFF</value>
+      <webElementGuid>5f47c485-7c7a-4cd8-b58e-c061471a6e24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;buttonSupport&quot;)/p[@class=&quot;sc-jrsJWt hpQRmZ icon-widget_support&quot;]</value>
+      <webElementGuid>d9d00d41-e449-4148-b8ec-87dca3326909</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='buttonSupport']/p</value>
+      <webElementGuid>61c1a50d-dd59-47f6-a76a-9b2656d8a561</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>bedcb736-2595-45d6-a090-112270d64ff1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

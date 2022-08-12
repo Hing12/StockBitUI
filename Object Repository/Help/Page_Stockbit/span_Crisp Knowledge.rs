@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Crisp Knowledge</name>
+   <tag></tag>
+   <elementGuidId>455ce3c6-2859-464d-b869-64fefb3449d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.cc-1qth.cc-1s3d</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='crisp-chatbox']/div/a/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a2f78699-4635-4368-81dc-0cfef5b3dc4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cc-1qth cc-1s3d</value>
+      <webElementGuid>cba98950-8d04-4bf4-80a0-97a3a5c5b7c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;crisp-chatbox&quot;)/div[@class=&quot;cc-kegp cc-xh3e&quot;]/a[@class=&quot;cc-1oun&quot;]/span[@class=&quot;cc-1qth cc-1s3d&quot;]</value>
+      <webElementGuid>73c37730-8aee-4089-aa39-435127a9c761</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='crisp-chatbox']/div/a/span[2]</value>
+      <webElementGuid>9e36a36c-d731-4152-83a6-0d78e1be5a82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Crisp Knowledge'])[1]/following::span[2]</value>
+      <webElementGuid>2f18ac1d-db7f-4fc0-936f-434c34ba0492</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a/span[2]</value>
+      <webElementGuid>9197c7b8-62e2-47fe-9bb0-7f61e9e5b6fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

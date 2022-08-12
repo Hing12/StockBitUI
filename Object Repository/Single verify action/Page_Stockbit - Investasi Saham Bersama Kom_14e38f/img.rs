@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>c99bf4cb-22f4-4a42-b250-c264f926c648</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.home-badges.depan > a > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='section0']/div/div/div/div/div[3]/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>88b555d1-f736-4a42-8ffb-2198ee013c98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://stockbit.com/assets/template/4b70f6fae447.png</value>
+      <webElementGuid>36c96a87-07ef-4419-ad36-b038d0a2317c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;section0&quot;)/div[@class=&quot;fp-tableCell&quot;]/div[@class=&quot;insider fclear homepage&quot;]/div[@class=&quot;content-left content-big&quot;]/div[@class=&quot;content-in&quot;]/div[@class=&quot;home-badges depan&quot;]/a[1]/img[1]</value>
+      <webElementGuid>43a936bb-16d4-47d8-bbe1-d68ac3eaabfc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='section0']/div/div/div/div/div[3]/a/img</value>
+      <webElementGuid>bea33e0c-5a7f-4b8d-b4bf-51147c89923b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://stockbit.com/assets/template/4b70f6fae447.png')]</value>
+      <webElementGuid>76833b73-3608-4998-996c-fdb40b4a0334</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/img</value>
+      <webElementGuid>ad8ad159-0cfb-4f7f-b959-f5a2c672d2f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://stockbit.com/assets/template/4b70f6fae447.png']</value>
+      <webElementGuid>29fe0292-819a-4c2b-9017-75c3b4100079</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

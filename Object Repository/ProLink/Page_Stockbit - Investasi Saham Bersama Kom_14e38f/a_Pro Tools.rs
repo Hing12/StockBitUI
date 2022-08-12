@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Pro Tools</name>
+   <tag></tag>
+   <elementGuidId>3cab893f-05c6-4190-a4cc-89ef7067720e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='landing-wrapper']/div/div/div[2]/div/div[2]/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6e39e0d0-3784-49af-a27f-bbcc0d5072f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menuchild</value>
+      <webElementGuid>870855fa-c8ae-4e93-9882-d640d4878d27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://stockbit.com/info/pro-tools</value>
+      <webElementGuid>95d7273c-b90b-4b32-9cb7-669d565c777f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pro Tools</value>
+      <webElementGuid>7c906829-5573-4a68-a9b9-cbf46c4d1b83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;landing-wrapper&quot;)/div[@class=&quot;headerlanding&quot;]/div[@class=&quot;insider&quot;]/div[@class=&quot;topmenu&quot;]/div[@class=&quot;topmenuchild&quot;]/div[@class=&quot;menuchild-parent desktop&quot;]/a[@class=&quot;menuchild&quot;]</value>
+      <webElementGuid>0fc7a503-b32a-4df2-b797-f04a93956cac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='landing-wrapper']/div/div/div[2]/div/div[2]/a[2]</value>
+      <webElementGuid>2f170b43-b0d8-4136-8653-928a46504672</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Pro Tools')]</value>
+      <webElementGuid>4ff5c3a7-1b99-4826-9d07-988abfb38efd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Investing'])[1]/following::a[1]</value>
+      <webElementGuid>d2b717ee-25ef-4396-8113-98ad168113c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Academy'])[1]/preceding::a[1]</value>
+      <webElementGuid>efbffdb2-764d-46a2-8fd0-47180d002315</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[1]/preceding::a[2]</value>
+      <webElementGuid>a913046a-7344-4973-a065-ee81275ac1ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pro Tools']/parent::*</value>
+      <webElementGuid>be535dc0-a5bd-4b01-8b60-d608e08a424e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://stockbit.com/info/pro-tools')]</value>
+      <webElementGuid>884e39f2-6187-4100-b701-93d350cba443</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a[2]</value>
+      <webElementGuid>f2ade886-f017-460c-9af2-9153f5e63a1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://stockbit.com/info/pro-tools' and (text() = 'Pro Tools' or . = 'Pro Tools')]</value>
+      <webElementGuid>b472aa0d-a890-4ac5-9fde-fb3a2bc5166a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

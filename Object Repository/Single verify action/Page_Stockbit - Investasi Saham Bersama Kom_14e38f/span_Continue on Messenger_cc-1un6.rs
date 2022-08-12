@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Continue on Messenger_cc-1un6</name>
+   <tag></tag>
+   <elementGuidId>cf54d692-42a9-49b8-9cac-542379f0598f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;crisp-chatbox&quot;)/div[@class=&quot;cc-kegp cc-xh3e&quot;]/div[@class=&quot;cc-1apq&quot;]/div[@class=&quot;cc-1q8z&quot;]/div[@class=&quot;cc-1ct5 cc-1s3d cc-645b cc-3g79&quot;]/span[@class=&quot;cc-1krx cc-1je6&quot;]/span[@class=&quot;cc-1un6&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.cc-1un6</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='crisp-chatbox']/div/div/div/div/span[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fba53552-8990-4404-bd8f-52f9461d900b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cc-1un6</value>
+      <webElementGuid>e79627de-6d55-4b2b-815e-aa73fcc72834</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;crisp-chatbox&quot;)/div[@class=&quot;cc-kegp cc-xh3e&quot;]/div[@class=&quot;cc-1apq&quot;]/div[@class=&quot;cc-1q8z&quot;]/div[@class=&quot;cc-1ct5 cc-1s3d cc-645b cc-3g79&quot;]/span[@class=&quot;cc-1krx cc-1je6&quot;]/span[@class=&quot;cc-1un6&quot;]</value>
+      <webElementGuid>b73f7f5a-52e3-4d9f-994c-faaa1df882c2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='crisp-chatbox']/div/div/div/div/span[3]/span</value>
+      <webElementGuid>914c8b7b-ce73-4273-bcee-41d43ea06e4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[3]/span</value>
+      <webElementGuid>828905fd-59f5-464d-8cbc-f61fd90e4f0f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

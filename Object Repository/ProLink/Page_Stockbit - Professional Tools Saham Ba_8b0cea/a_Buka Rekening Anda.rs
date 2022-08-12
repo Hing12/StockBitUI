@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Buka Rekening Anda</name>
+   <tag></tag>
+   <elementGuidId>376fd5e5-4549-43b4-bd7d-454cc7c76b4b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.sc-gKAaRy.styled__ButtonInvest-sc-1dt0hdy-4.fjdKuF.hotySy</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f4f9c11a-04cb-4ace-8a69-e2e5fa1bb782</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/register</value>
+      <webElementGuid>72212d37-b748-463d-85df-42594cc976d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>direction</name>
+      <type>Main</type>
+      <value>row</value>
+      <webElementGuid>f37e2aff-8762-4ef8-ae1a-af1a0648b051</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>wrap</name>
+      <type>Main</type>
+      <value>nowrap</value>
+      <webElementGuid>1ff807e3-b2d8-4f99-b8b8-8d5f4aba4211</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-gKAaRy styled__ButtonInvest-sc-1dt0hdy-4 fjdKuF hotySy</value>
+      <webElementGuid>ef128702-01c2-4d5c-890c-1eca86fe34e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Buka Rekening Anda</value>
+      <webElementGuid>fba584b9-1165-47dd-9f64-716c9ff2d49a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;styled__ContentWrapper-xns5g1-0 jfHzrO&quot;]/div[@class=&quot;styled__FullPage-xns5g1-9 vcuOF&quot;]/div[@class=&quot;sc-gKAaRy styled__HeaderWrapper-sc-1dt0hdy-3 fsLAyo dXNLoE&quot;]/div[@class=&quot;title-wrapper&quot;]/a[@class=&quot;sc-gKAaRy styled__ButtonInvest-sc-1dt0hdy-4 fjdKuF hotySy&quot;]</value>
+      <webElementGuid>57a1089c-1703-48a7-806d-9fe7e0b95b9c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/a</value>
+      <webElementGuid>46011b08-a1a7-4737-9feb-8338f0e68e93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Buka Rekening Anda')]</value>
+      <webElementGuid>6ec9d398-1c28-4f3f-8a2b-a43052c0b029</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Professional Toolsuntuk Pemula'])[1]/following::a[1]</value>
+      <webElementGuid>a3c022b4-fd76-4f89-8460-86c3bce8c523</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log In'])[1]/following::a[1]</value>
+      <webElementGuid>19572752-6fcf-4db6-8c30-09b6a37b4459</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Financials'])[1]/preceding::a[1]</value>
+      <webElementGuid>e26950da-adc7-4c2d-8cd6-2f8d78fe809f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keystats'])[1]/preceding::a[2]</value>
+      <webElementGuid>adcde8a3-a1f1-46f7-b745-f01e8535f1dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Buka Rekening Anda']/parent::*</value>
+      <webElementGuid>0e619b05-6c7d-40e7-9633-36f345e7a84c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/register')]</value>
+      <webElementGuid>6fe7b15b-8251-45c9-a781-8ba0fae56b04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a</value>
+      <webElementGuid>ed44acc7-1b5c-4bb7-8ba3-2712485a87af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/register' and (text() = 'Buka Rekening Anda' or . = 'Buka Rekening Anda')]</value>
+      <webElementGuid>504d3491-2926-4aff-bf43-b891b7041337</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

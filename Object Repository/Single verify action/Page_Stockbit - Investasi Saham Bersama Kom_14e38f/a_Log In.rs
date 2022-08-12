@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Log In</name>
+   <tag></tag>
+   <elementGuidId>2d6e5c62-a182-41cf-b4f5-58c9c4db8a1f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.login-ldn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='landing-wrapper']/div/div/div[2]/div/div[2]/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6798af7d-e34e-4ede-9ba3-936585928bc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>login-ldn</value>
+      <webElementGuid>f6048578-d947-493b-a1af-f6408cef39ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://stockbit.com/#/login</value>
+      <webElementGuid>b342d30b-d72b-4214-8b1e-d1101f6f0667</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log In</value>
+      <webElementGuid>fe624aba-a37f-46a2-9aa5-92c00ffc7545</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;landing-wrapper&quot;)/div[@class=&quot;headerlanding&quot;]/div[@class=&quot;insider&quot;]/div[@class=&quot;topmenu&quot;]/div[@class=&quot;topmenuchild&quot;]/div[@class=&quot;menuchild-parent desktop&quot;]/div[1]/div[@class=&quot;button button-light&quot;]/a[@class=&quot;login-ldn&quot;]</value>
+      <webElementGuid>13203dcb-627a-439d-83e3-993fae90f6bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='landing-wrapper']/div/div/div[2]/div/div[2]/div/div/a</value>
+      <webElementGuid>98987ef9-7c1f-4740-9e03-7c07886d30d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Log In')]</value>
+      <webElementGuid>37cb0985-71f7-4228-8340-e7a1dc3207d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[1]/following::a[1]</value>
+      <webElementGuid>6124d064-9601-49ba-b4d1-d387f3e84004</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[1]/following::a[2]</value>
+      <webElementGuid>6ac33c72-30e3-4d28-9708-ef311070f32f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Up'])[1]/preceding::a[1]</value>
+      <webElementGuid>5a9ed335-7f5d-4347-a34c-7121f34b1eaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Investing'])[2]/preceding::a[2]</value>
+      <webElementGuid>9502b6a2-5739-49ef-bdf5-9c39222c2452</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Log In']/parent::*</value>
+      <webElementGuid>8a26d472-6f45-49a7-b846-b2975d956329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://stockbit.com/#/login')]</value>
+      <webElementGuid>983c4641-a739-4b78-a36a-eaa01b2574dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/a</value>
+      <webElementGuid>57cf3459-d3e1-4a9c-b000-527fadf17601</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://stockbit.com/#/login' and (text() = 'Log In' or . = 'Log In')]</value>
+      <webElementGuid>1557283d-7a33-4869-a0c6-5d20dff7de65</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
