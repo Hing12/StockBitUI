@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+6. Help,Chrome 104.0.5112.81,,,2022-08-12 14:44:56,2022-08-12 14:45:25,29.105s,PASSED
+,,,,,,,
+Test Cases/6. Help/1. Verif_Link - click Help button,Chrome 104.0.5112.81,,,2022-08-12 14:44:56,2022-08-12 14:45:21,24.799s,PASSED
+"openBrowser("""")",Chrome 104.0.5112.81,,,2022-08-12 14:44:58,2022-08-12 14:45:07,9.059s,PASSED
+maximizeWindow(),Chrome 104.0.5112.81,,,2022-08-12 14:45:07,2022-08-12 14:45:07,0.392s,PASSED
+"navigateToUrl(""https://stockbit.com/"")",Chrome 104.0.5112.81,,,2022-08-12 14:45:07,2022-08-12 14:45:14,7.350s,PASSED
+"click(findTestObject(""Object Repository/Help/Page_Stockbit - Investasi Saham Bersama Kom_14e38f/a_Help""))",Chrome 104.0.5112.81,,,2022-08-12 14:45:14,2022-08-12 14:45:15,0.938s,PASSED
+switchToWindowIndex(1),Chrome 104.0.5112.81,,,2022-08-12 14:45:15,2022-08-12 14:45:15,0.116s,PASSED
+delay(3),Chrome 104.0.5112.81,,,2022-08-12 14:45:15,2022-08-12 14:45:19,3.093s,PASSED
+"Link = ""https://help.stockbit.com/id/""",Chrome 104.0.5112.81,,,2022-08-12 14:45:19,2022-08-12 14:45:19,0.003s,PASSED
+CurrentUrL = getUrl(),Chrome 104.0.5112.81,,,2022-08-12 14:45:19,2022-08-12 14:45:19,0.062s,PASSED
+"verifyMatch(CurrentUrL, Link, false)",Chrome 104.0.5112.81,,,2022-08-12 14:45:19,2022-08-12 14:45:19,0.030s,PASSED
+Video,Chrome 104.0.5112.81,,,2022-08-12 14:45:21,2022-08-12 14:45:21,0.002s,PASSED
+,,,,,,,
+Test Cases/6. Help/2. Verif_chat box - clicks Helpdesk Icon,Chrome 104.0.5112.81,,,2022-08-12 14:45:21,2022-08-12 14:45:25,3.747s,PASSED
+"click(findTestObject(""Object Repository/Help/Page_Stockbit/span_Crisp Knowledge""))",Chrome 104.0.5112.81,,,2022-08-12 14:45:22,2022-08-12 14:45:23,0.621s,PASSED
+Video,Chrome 104.0.5112.81,,,2022-08-12 14:45:25,2022-08-12 14:45:25,0.002s,PASSED

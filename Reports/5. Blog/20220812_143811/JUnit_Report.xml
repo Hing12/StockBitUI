@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="5. Blog" time="78.546" tests="3" failures="0" errors="0">
+   <testsuite name="5. Blog" tests="3" failures="0" errors="0" time="78.546" skipped="0" timestamp="2022-08-12 14:38:16" hostname="OS1581 - 9060003820-N.corp.tafinance.com" id="Test Suites/5. Blog">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\DS\\SB\\SB\\Reports\\20220812_143811\\5. Blog\\20220812_143811"/>
+         <property name="logFiles" value="D:\\DS\\SB\\SB\\Reports\\20220812_143811\\5. Blog\\20220812_143811\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="OS1581 - 9060003820-N.corp.tafinance.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.3.0.208"/>
+         <property name="browser" value="Chrome 104.0.5112.81"/>
+         <property name="hostAddress" value="192.168.185.184"/>
+         <property name="sessionId" value="c063667571b4ab85dc96af95437fdfc8"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=USE_SYSTEM, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/5. Blog/1. Verif_Link - click Blog button" time="33.702" classname="Test Cases/5. Blog/1. Verif_Link - click Blog button" status="PASSED">
+         <system-out><![CDATA[2022-08-12 14:38:17 - [TEST_CASE][PASSED] - Test Cases/5. Blog/1. Verif_Link - click Blog button: Test Cases/5. Blog/1. Verif_Link - click Blog button
+
+2022-08-12 14:38:18 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-08-12 14:38:19 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-08-12 14:38:19 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-08-12 14:38:26 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-08-12 14:38:26 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-08-12 14:38:26 - [MESSAGE][PASSED] - Current window maximized
+
+2022-08-12 14:38:26 - [TEST_STEP][PASSED] - navigateToUrl("https://stockbit.com/"): Navigate to 'https://stockbit.com/' successfully
+
+2022-08-12 14:38:33 - [MESSAGE][PASSED] - Navigate to 'https://stockbit.com/' successfully
+
+2022-08-12 14:38:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Blog/Page_Stockbit - Investasi Saham Bersama Kom_14e38f/a_Blog")): Object: 'Object Repository/Blog/Page_Stockbit - Investasi Saham Bersama Kom_14e38f/a_Blog' is clicked on
+
+2022-08-12 14:38:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Blog/Page_Stockbit - Investasi Saham Bersama Kom_14e38f/a_Blog' is clicked on
+
+2022-08-12 14:38:35 - [TEST_STEP][PASSED] - switchToWindowIndex(1): Switched to window with index: '1'
+
+2022-08-12 14:38:35 - [MESSAGE][PASSED] - Switched to window with index: '1'
+
+2022-08-12 14:38:35 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2022-08-12 14:38:38 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2022-08-12 14:38:38 - [TEST_STEP][PASSED] - Link = "https://snips.stockbit.com/": null
+
+2022-08-12 14:38:38 - [TEST_STEP][PASSED] - CurrentUrL = getUrl(): Current window's url is: 'https://snips.stockbit.com/'
+
+2022-08-12 14:38:48 - [MESSAGE][PASSED] - Current window's url is: 'https://snips.stockbit.com/'
+
+2022-08-12 14:38:48 - [TEST_STEP][PASSED] - verifyMatch(CurrentUrL, Link, false): Actual text 'https://snips.stockbit.com/' and expected text 'https://snips.stockbit.com/' are matched 
+
+2022-08-12 14:38:48 - [MESSAGE][PASSED] - Actual text 'https://snips.stockbit.com/' and expected text 'https://snips.stockbit.com/' are matched 
+
+2022-08-12 14:38:50 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/5. Blog/1. Verif_Link - click Blog button' .
+
+2022-08-12 14:38:50 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/5. Blog/1. Verif_Link - click Blog button' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/5. Blog/2. Verif_Link - clicks Open Stockbit button" time="20.923" classname="Test Cases/5. Blog/2. Verif_Link - clicks Open Stockbit button" status="PASSED">
+         <system-out><![CDATA[2022-08-12 14:38:50 - [TEST_CASE][PASSED] - Test Cases/5. Blog/2. Verif_Link - clicks Open Stockbit button: Test Cases/5. Blog/2. Verif_Link - clicks Open Stockbit button
+
+2022-08-12 14:38:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Blog/Page_Stockbit Snips  Berita Saham/span_Open Stockbit")): Object: 'Object Repository/Blog/Page_Stockbit Snips  Berita Saham/span_Open Stockbit' is clicked on
+
+2022-08-12 14:38:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Blog/Page_Stockbit Snips  Berita Saham/span_Open Stockbit' is clicked on
+
+2022-08-12 14:38:56 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2022-08-12 14:38:59 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2022-08-12 14:38:59 - [TEST_STEP][PASSED] - Link = "https://stockbit.com/": null
+
+2022-08-12 14:38:59 - [TEST_STEP][PASSED] - CurrentUrL = getUrl(): Current window's url is: 'https://stockbit.com/'
+
+2022-08-12 14:38:59 - [MESSAGE][PASSED] - Current window's url is: 'https://stockbit.com/'
+
+2022-08-12 14:38:59 - [TEST_STEP][PASSED] - verifyMatch(CurrentUrL, Link, false): Actual text 'https://stockbit.com/' and expected text 'https://stockbit.com/' are matched 
+
+2022-08-12 14:38:59 - [MESSAGE][PASSED] - Actual text 'https://stockbit.com/' and expected text 'https://stockbit.com/' are matched 
+
+2022-08-12 14:38:59 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2022-08-12 14:39:01 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-08-12 14:39:01 - [TEST_STEP][PASSED] - back(): Navigate back successfully
+
+2022-08-12 14:39:09 - [MESSAGE][PASSED] - Navigate back successfully
+
+2022-08-12 14:39:11 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/5. Blog/2. Verif_Link - clicks Open Stockbit button' .
+
+2022-08-12 14:39:11 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/5. Blog/2. Verif_Link - clicks Open Stockbit button' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/5. Blog/3. Verif_Link - clicks Subscribe button" time="23.219" classname="Test Cases/5. Blog/3. Verif_Link - clicks Subscribe button" status="PASSED">
+         <system-out><![CDATA[2022-08-12 14:39:11 - [TEST_CASE][PASSED] - Test Cases/5. Blog/3. Verif_Link - clicks Subscribe button: Test Cases/5. Blog/3. Verif_Link - clicks Subscribe button
+
+2022-08-12 14:39:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Blog/Page_Stockbit Snips  Berita Saham/span_Subscribe")): Object: 'Object Repository/Blog/Page_Stockbit Snips  Berita Saham/span_Subscribe' is clicked on
+
+2022-08-12 14:39:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Blog/Page_Stockbit Snips  Berita Saham/span_Subscribe' is clicked on
+
+2022-08-12 14:39:27 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2022-08-12 14:39:30 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2022-08-12 14:39:30 - [TEST_STEP][PASSED] - Link = "https://snips.stockbit.com/subscribe": null
+
+2022-08-12 14:39:30 - [TEST_STEP][PASSED] - CurrentUrL = getUrl(): Current window's url is: 'https://snips.stockbit.com/subscribe'
+
+2022-08-12 14:39:30 - [MESSAGE][PASSED] - Current window's url is: 'https://snips.stockbit.com/subscribe'
+
+2022-08-12 14:39:30 - [TEST_STEP][PASSED] - verifyMatch(CurrentUrL, Link, false): Actual text 'https://snips.stockbit.com/subscribe' and expected text 'https://snips.stockbit.com/subscribe' are matched 
+
+2022-08-12 14:39:30 - [MESSAGE][PASSED] - Actual text 'https://snips.stockbit.com/subscribe' and expected text 'https://snips.stockbit.com/subscribe' are matched 
+
+2022-08-12 14:39:30 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2022-08-12 14:39:32 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-08-12 14:39:35 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/5. Blog/3. Verif_Link - clicks Subscribe button' .
+
+2022-08-12 14:39:35 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/5. Blog/3. Verif_Link - clicks Subscribe button' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-08-12 14:38:16 - [TEST_SUITE][PASSED] - 5. Blog: Test Cases/5. Blog/3. Verif_Link - clicks Subscribe button]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="1. Investing" time="61.902" tests="3" failures="0" errors="0">
+   <testsuite name="1. Investing" tests="3" failures="0" errors="0" time="61.902" skipped="0" timestamp="2022-08-12 15:19:17" hostname="OS1581 - 9060003820-N.corp.tafinance.com" id="Test Suites/1. Investing">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\DS\\SB\\SB\\Reports\\20220812_151912\\1. Investing\\20220812_151912"/>
+         <property name="logFiles" value="D:\\DS\\SB\\SB\\Reports\\20220812_151912\\1. Investing\\20220812_151912\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="OS1581 - 9060003820-N.corp.tafinance.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.3.0.208"/>
+         <property name="browser" value="Chrome 104.0.5112.81"/>
+         <property name="hostAddress" value="192.168.185.184"/>
+         <property name="sessionId" value="e6feaa566e151d21255edb3eca575264"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=USE_SYSTEM, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/1. Investing/1. Verif_Link - click Investing button" time="30.892" classname="Test Cases/1. Investing/1. Verif_Link - click Investing button" status="PASSED">
+         <system-out><![CDATA[2022-08-12 15:19:18 - [TEST_CASE][PASSED] - Test Cases/1. Investing/1. Verif_Link - click Investing button: Test Cases/1. Investing/1. Verif_Link - click Investing button
+
+2022-08-12 15:19:19 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-08-12 15:19:20 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-08-12 15:19:20 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-08-12 15:19:29 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-08-12 15:19:29 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-08-12 15:19:29 - [MESSAGE][PASSED] - Current window maximized
+
+2022-08-12 15:19:29 - [TEST_STEP][PASSED] - navigateToUrl("https://stockbit.com/"): Navigate to 'https://stockbit.com/' successfully
+
+2022-08-12 15:19:36 - [MESSAGE][PASSED] - Navigate to 'https://stockbit.com/' successfully
+
+2022-08-12 15:19:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Investing/Page_Stockbit - Investasi Saham Bersama Kom_14e38f/a_Investing")): Object: 'Object Repository/Investing/Page_Stockbit - Investasi Saham Bersama Kom_14e38f/a_Investing' is clicked on
+
+2022-08-12 15:19:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Investing/Page_Stockbit - Investasi Saham Bersama Kom_14e38f/a_Investing' is clicked on
+
+2022-08-12 15:19:41 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2022-08-12 15:19:46 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2022-08-12 15:19:46 - [TEST_STEP][PASSED] - Link = "https://stockbit.com/info/mulai-investasi": null
+
+2022-08-12 15:19:46 - [TEST_STEP][PASSED] - CurrentUrL = getUrl(): Current window's url is: 'https://stockbit.com/info/mulai-investasi'
+
+2022-08-12 15:19:46 - [MESSAGE][PASSED] - Current window's url is: 'https://stockbit.com/info/mulai-investasi'
+
+2022-08-12 15:19:46 - [TEST_STEP][PASSED] - verifyMatch(CurrentUrL, Link, false): Actual text 'https://stockbit.com/info/mulai-investasi' and expected text 'https://stockbit.com/info/mulai-investasi' are matched 
+
+2022-08-12 15:19:46 - [MESSAGE][PASSED] - Actual text 'https://stockbit.com/info/mulai-investasi' and expected text 'https://stockbit.com/info/mulai-investasi' are matched 
+
+2022-08-12 15:19:49 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/1. Investing/1. Verif_Link - click Investing button' .
+
+2022-08-12 15:19:49 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/1. Investing/1. Verif_Link - click Investing button' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/1. Investing/2. Verif_chat box - clicks Helpdesk Icon" time="9.703" classname="Test Cases/1. Investing/2. Verif_chat box - clicks Helpdesk Icon" status="PASSED">
+         <system-out><![CDATA[2022-08-12 15:19:49 - [TEST_CASE][PASSED] - Test Cases/1. Investing/2. Verif_chat box - clicks Helpdesk Icon: Test Cases/1. Investing/2. Verif_chat box - clicks Helpdesk Icon
+
+2022-08-12 15:19:50 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2022-08-12 15:19:55 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2022-08-12 15:19:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Investing/Page_Stockbit - Mulai Investasi Saham/icon-widget_support")): Object: 'Object Repository/Investing/Page_Stockbit - Mulai Investasi Saham/icon-widget_support' is clicked on
+
+2022-08-12 15:19:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Investing/Page_Stockbit - Mulai Investasi Saham/icon-widget_support' is clicked on
+
+2022-08-12 15:19:58 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/1. Investing/2. Verif_chat box - clicks Helpdesk Icon' .
+
+2022-08-12 15:19:58 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/1. Investing/2. Verif_chat box - clicks Helpdesk Icon' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/1. Investing/3. Verif_Link - clicks BUKA REKENING ANDA" time="20.611" classname="Test Cases/1. Investing/3. Verif_Link - clicks BUKA REKENING ANDA" status="PASSED">
+         <system-out><![CDATA[2022-08-12 15:19:58 - [TEST_CASE][PASSED] - Test Cases/1. Investing/3. Verif_Link - clicks BUKA REKENING ANDA: Test Cases/1. Investing/3. Verif_Link - clicks BUKA REKENING ANDA
+
+2022-08-12 15:19:59 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2022-08-12 15:20:04 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2022-08-12 15:20:04 - [TEST_STEP][PASSED] - sendKeys(null, Keys.chord(PAGE_DOWN, PAGE_DOWN, PAGE_DOWN, PAGE_DOWN, PAGE_DOWN, PAGE_DOWN, PAGE_DOWN, PAGE_UP)): Keys 'PAGE_DOWN + PAGE_DOWN + PAGE_DOWN + PAGE_DOWN + PAGE_DOWN + PAGE_DOWN + PAGE_DOWN + PAGE_UP + ' sent to object: 'tempBody'
+
+2022-08-12 15:20:05 - [MESSAGE][WARNING] - Test object with id 'Object Repository/' does not exist
+
+2022-08-12 15:20:05 - [MESSAGE][PASSED] - Keys 'PAGE_DOWN + PAGE_DOWN + PAGE_DOWN + PAGE_DOWN + PAGE_DOWN + PAGE_DOWN + PAGE_DOWN + PAGE_UP + ' sent to object: 'tempBody'
+
+2022-08-12 15:20:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Investing/Page_Stockbit - Mulai Investasi Saham/a_Buka Rekening Anda")): Object: 'Object Repository/Investing/Page_Stockbit - Mulai Investasi Saham/a_Buka Rekening Anda' is clicked on
+
+2022-08-12 15:20:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Investing/Page_Stockbit - Mulai Investasi Saham/a_Buka Rekening Anda' is clicked on
+
+2022-08-12 15:20:06 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2022-08-12 15:20:11 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2022-08-12 15:20:11 - [TEST_STEP][PASSED] - switchToWindowIndex(1): Switched to window with index: '1'
+
+2022-08-12 15:20:12 - [MESSAGE][PASSED] - Switched to window with index: '1'
+
+2022-08-12 15:20:12 - [TEST_STEP][PASSED] - Link = "https://stockbit.com/register": null
+
+2022-08-12 15:20:12 - [TEST_STEP][PASSED] - CurrentUrL = getUrl(): Current window's url is: 'https://stockbit.com/register'
+
+2022-08-12 15:20:12 - [MESSAGE][PASSED] - Current window's url is: 'https://stockbit.com/register'
+
+2022-08-12 15:20:12 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2022-08-12 15:20:15 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2022-08-12 15:20:15 - [TEST_STEP][PASSED] - verifyMatch(CurrentUrL, Link, false): Actual text 'https://stockbit.com/register' and expected text 'https://stockbit.com/register' are matched 
+
+2022-08-12 15:20:15 - [MESSAGE][PASSED] - Actual text 'https://stockbit.com/register' and expected text 'https://stockbit.com/register' are matched 
+
+2022-08-12 15:20:15 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2022-08-12 15:20:17 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-08-12 15:20:19 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/1. Investing/3. Verif_Link - clicks BUKA REKENING ANDA' .
+
+2022-08-12 15:20:19 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/1. Investing/3. Verif_Link - clicks BUKA REKENING ANDA' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-08-12 15:19:17 - [TEST_SUITE][PASSED] - 1. Investing: Test Cases/1. Investing/3. Verif_Link - clicks BUKA REKENING ANDA]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

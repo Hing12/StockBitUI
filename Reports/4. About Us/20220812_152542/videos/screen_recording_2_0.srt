@@ -1,0 +1,8 @@
+1
+00:00:00,645 --> 00:00:01,137
+1. click(findTestObject("Object Repository/bout/Page_About Us  Stockbit - Komunitas Saham I_93a387/icon-widget_support"))
+
+2
+00:00:01,143 --> 00:00:03,159
+5. delay(2)
+

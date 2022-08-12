@@ -1,0 +1,31 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+1. Investing,Chrome 104.0.5112.81,,,2022-08-12 15:19:17,2022-08-12 15:20:19,1m - 1.902s,PASSED
+,,,,,,,
+Test Cases/1. Investing/1. Verif_Link - click Investing button,Chrome 104.0.5112.81,,,2022-08-12 15:19:18,2022-08-12 15:19:49,30.892s,PASSED
+"openBrowser("""")",Chrome 104.0.5112.81,,,2022-08-12 15:19:19,2022-08-12 15:19:29,9.428s,PASSED
+maximizeWindow(),Chrome 104.0.5112.81,,,2022-08-12 15:19:29,2022-08-12 15:19:29,0.328s,PASSED
+"navigateToUrl(""https://stockbit.com/"")",Chrome 104.0.5112.81,,,2022-08-12 15:19:29,2022-08-12 15:19:36,6.872s,PASSED
+"click(findTestObject(""Object Repository/Investing/Page_Stockbit - Investasi Saham Bersama Kom_14e38f/a_Investing""))",Chrome 104.0.5112.81,,,2022-08-12 15:19:36,2022-08-12 15:19:41,5.334s,PASSED
+delay(5),Chrome 104.0.5112.81,,,2022-08-12 15:19:41,2022-08-12 15:19:46,5.085s,PASSED
+"Link = ""https://stockbit.com/info/mulai-investasi""",Chrome 104.0.5112.81,,,2022-08-12 15:19:46,2022-08-12 15:19:46,0.004s,PASSED
+CurrentUrL = getUrl(),Chrome 104.0.5112.81,,,2022-08-12 15:19:46,2022-08-12 15:19:46,0.088s,PASSED
+"verifyMatch(CurrentUrL, Link, false)",Chrome 104.0.5112.81,,,2022-08-12 15:19:46,2022-08-12 15:19:46,0.027s,PASSED
+Video,Chrome 104.0.5112.81,,,2022-08-12 15:19:49,2022-08-12 15:19:49,0.001s,PASSED
+,,,,,,,
+Test Cases/1. Investing/2. Verif_chat box - clicks Helpdesk Icon,Chrome 104.0.5112.81,,,2022-08-12 15:19:49,2022-08-12 15:19:58,9.703s,PASSED
+delay(5),Chrome 104.0.5112.81,,,2022-08-12 15:19:50,2022-08-12 15:19:55,5.040s,PASSED
+"click(findTestObject(""Object Repository/Investing/Page_Stockbit - Mulai Investasi Saham/icon-widget_support""))",Chrome 104.0.5112.81,,,2022-08-12 15:19:55,2022-08-12 15:19:56,1.654s,PASSED
+Video,Chrome 104.0.5112.81,,,2022-08-12 15:19:58,2022-08-12 15:19:58,0.001s,PASSED
+,,,,,,,
+Test Cases/1. Investing/3. Verif_Link - clicks BUKA REKENING ANDA,Chrome 104.0.5112.81,,,2022-08-12 15:19:58,2022-08-12 15:20:19,20.611s,PASSED
+delay(5),Chrome 104.0.5112.81,,,2022-08-12 15:19:59,2022-08-12 15:20:04,5.016s,PASSED
+"sendKeys(null, Keys.chord(PAGE_DOWN, PAGE_DOWN, PAGE_DOWN, PAGE_DOWN, PAGE_DOWN, PAGE_DOWN, PAGE_DOWN, PAGE_UP))",Chrome 104.0.5112.81,,,2022-08-12 15:20:04,2022-08-12 15:20:05,0.523s,PASSED
+"click(findTestObject(""Object Repository/Investing/Page_Stockbit - Mulai Investasi Saham/a_Buka Rekening Anda""))",Chrome 104.0.5112.81,,,2022-08-12 15:20:05,2022-08-12 15:20:06,1.405s,PASSED
+delay(5),Chrome 104.0.5112.81,,,2022-08-12 15:20:06,2022-08-12 15:20:11,5.015s,PASSED
+switchToWindowIndex(1),Chrome 104.0.5112.81,,,2022-08-12 15:20:11,2022-08-12 15:20:12,0.146s,PASSED
+"Link = ""https://stockbit.com/register""",Chrome 104.0.5112.81,,,2022-08-12 15:20:12,2022-08-12 15:20:12,0.004s,PASSED
+CurrentUrL = getUrl(),Chrome 104.0.5112.81,,,2022-08-12 15:20:12,2022-08-12 15:20:12,0.171s,PASSED
+delay(3),Chrome 104.0.5112.81,,,2022-08-12 15:20:12,2022-08-12 15:20:15,3.016s,PASSED
+"verifyMatch(CurrentUrL, Link, false)",Chrome 104.0.5112.81,,,2022-08-12 15:20:15,2022-08-12 15:20:15,0.009s,PASSED
+delay(2),Chrome 104.0.5112.81,,,2022-08-12 15:20:15,2022-08-12 15:20:17,2.019s,PASSED
+Video,Chrome 104.0.5112.81,,,2022-08-12 15:20:19,2022-08-12 15:20:19,0.002s,PASSED

@@ -1,0 +1,33 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+5. Blog,Chrome 104.0.5112.81,,,2022-08-12 14:38:16,2022-08-12 14:39:35,1m - 18.546s,PASSED
+,,,,,,,
+Test Cases/5. Blog/1. Verif_Link - click Blog button,Chrome 104.0.5112.81,,,2022-08-12 14:38:17,2022-08-12 14:38:50,33.702s,PASSED
+"openBrowser("""")",Chrome 104.0.5112.81,,,2022-08-12 14:38:18,2022-08-12 14:38:26,7.786s,PASSED
+maximizeWindow(),Chrome 104.0.5112.81,,,2022-08-12 14:38:26,2022-08-12 14:38:26,0.254s,PASSED
+"navigateToUrl(""https://stockbit.com/"")",Chrome 104.0.5112.81,,,2022-08-12 14:38:26,2022-08-12 14:38:33,7.272s,PASSED
+"click(findTestObject(""Object Repository/Blog/Page_Stockbit - Investasi Saham Bersama Kom_14e38f/a_Blog""))",Chrome 104.0.5112.81,,,2022-08-12 14:38:33,2022-08-12 14:38:35,1.367s,PASSED
+switchToWindowIndex(1),Chrome 104.0.5112.81,,,2022-08-12 14:38:35,2022-08-12 14:38:35,0.179s,PASSED
+delay(3),Chrome 104.0.5112.81,,,2022-08-12 14:38:35,2022-08-12 14:38:38,3.111s,PASSED
+"Link = ""https://snips.stockbit.com/""",Chrome 104.0.5112.81,,,2022-08-12 14:38:38,2022-08-12 14:38:38,0.003s,PASSED
+CurrentUrL = getUrl(),Chrome 104.0.5112.81,,,2022-08-12 14:38:38,2022-08-12 14:38:48,10.227s,PASSED
+"verifyMatch(CurrentUrL, Link, false)",Chrome 104.0.5112.81,,,2022-08-12 14:38:48,2022-08-12 14:38:48,0.026s,PASSED
+Video,Chrome 104.0.5112.81,,,2022-08-12 14:38:50,2022-08-12 14:38:50,0.002s,PASSED
+,,,,,,,
+Test Cases/5. Blog/2. Verif_Link - clicks Open Stockbit button,Chrome 104.0.5112.81,,,2022-08-12 14:38:50,2022-08-12 14:39:11,20.923s,PASSED
+"click(findTestObject(""Object Repository/Blog/Page_Stockbit Snips  Berita Saham/span_Open Stockbit""))",Chrome 104.0.5112.81,,,2022-08-12 14:38:51,2022-08-12 14:38:56,4.519s,PASSED
+delay(3),Chrome 104.0.5112.81,,,2022-08-12 14:38:56,2022-08-12 14:38:59,3.009s,PASSED
+"Link = ""https://stockbit.com/""",Chrome 104.0.5112.81,,,2022-08-12 14:38:59,2022-08-12 14:38:59,0.007s,PASSED
+CurrentUrL = getUrl(),Chrome 104.0.5112.81,,,2022-08-12 14:38:59,2022-08-12 14:38:59,0.022s,PASSED
+"verifyMatch(CurrentUrL, Link, false)",Chrome 104.0.5112.81,,,2022-08-12 14:38:59,2022-08-12 14:38:59,0.007s,PASSED
+delay(2),Chrome 104.0.5112.81,,,2022-08-12 14:38:59,2022-08-12 14:39:01,2.026s,PASSED
+back(),Chrome 104.0.5112.81,,,2022-08-12 14:39:01,2022-08-12 14:39:09,8.225s,PASSED
+Video,Chrome 104.0.5112.81,,,2022-08-12 14:39:11,2022-08-12 14:39:11,0.002s,PASSED
+,,,,,,,
+Test Cases/5. Blog/3. Verif_Link - clicks Subscribe button,Chrome 104.0.5112.81,,,2022-08-12 14:39:11,2022-08-12 14:39:35,23.219s,PASSED
+"click(findTestObject(""Object Repository/Blog/Page_Stockbit Snips  Berita Saham/span_Subscribe""))",Chrome 104.0.5112.81,,,2022-08-12 14:39:12,2022-08-12 14:39:27,15.356s,PASSED
+delay(3),Chrome 104.0.5112.81,,,2022-08-12 14:39:27,2022-08-12 14:39:30,3.021s,PASSED
+"Link = ""https://snips.stockbit.com/subscribe""",Chrome 104.0.5112.81,,,2022-08-12 14:39:30,2022-08-12 14:39:30,0.003s,PASSED
+CurrentUrL = getUrl(),Chrome 104.0.5112.81,,,2022-08-12 14:39:30,2022-08-12 14:39:30,0.024s,PASSED
+"verifyMatch(CurrentUrL, Link, false)",Chrome 104.0.5112.81,,,2022-08-12 14:39:30,2022-08-12 14:39:30,0.006s,PASSED
+delay(2),Chrome 104.0.5112.81,,,2022-08-12 14:39:30,2022-08-12 14:39:32,2.009s,PASSED
+Video,Chrome 104.0.5112.81,,,2022-08-12 14:39:35,2022-08-12 14:39:35,0.001s,PASSED

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="3. Academy" time="65.525" tests="3" failures="0" errors="0">
+   <testsuite name="3. Academy" tests="3" failures="0" errors="0" time="65.525" skipped="0" timestamp="2022-08-12 15:22:31" hostname="OS1581 - 9060003820-N.corp.tafinance.com" id="Test Suites/3. Academy">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\DS\\SB\\SB\\Reports\\20220812_152225\\3. Academy\\20220812_152225"/>
+         <property name="logFiles" value="D:\\DS\\SB\\SB\\Reports\\20220812_152225\\3. Academy\\20220812_152225\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="OS1581 - 9060003820-N.corp.tafinance.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.3.0.208"/>
+         <property name="browser" value="Chrome 104.0.5112.81"/>
+         <property name="hostAddress" value="192.168.185.184"/>
+         <property name="sessionId" value="dbf0c12bc1fad827625ea19dd14c24c8"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=USE_SYSTEM, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/3. Academy/1. Verif_Link - click Academy button" time="32.351" classname="Test Cases/3. Academy/1. Verif_Link - click Academy button" status="PASSED">
+         <system-out><![CDATA[2022-08-12 15:22:32 - [TEST_CASE][PASSED] - Test Cases/3. Academy/1. Verif_Link - click Academy button: Test Cases/3. Academy/1. Verif_Link - click Academy button
+
+2022-08-12 15:22:33 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-08-12 15:22:34 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-08-12 15:22:35 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-08-12 15:22:43 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-08-12 15:22:43 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-08-12 15:22:44 - [MESSAGE][PASSED] - Current window maximized
+
+2022-08-12 15:22:44 - [TEST_STEP][PASSED] - navigateToUrl("https://stockbit.com/"): Navigate to 'https://stockbit.com/' successfully
+
+2022-08-12 15:22:54 - [MESSAGE][PASSED] - Navigate to 'https://stockbit.com/' successfully
+
+2022-08-12 15:22:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Academy/Page_Stockbit - Investasi Saham Bersama Kom_14e38f/a_Academy")): Object: 'Object Repository/Academy/Page_Stockbit - Investasi Saham Bersama Kom_14e38f/a_Academy' is clicked on
+
+2022-08-12 15:22:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Academy/Page_Stockbit - Investasi Saham Bersama Kom_14e38f/a_Academy' is clicked on
+
+2022-08-12 15:22:56 - [TEST_STEP][PASSED] - switchToWindowIndex(1): Switched to window with index: '1'
+
+2022-08-12 15:22:56 - [MESSAGE][PASSED] - Switched to window with index: '1'
+
+2022-08-12 15:22:56 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2022-08-12 15:22:59 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2022-08-12 15:22:59 - [TEST_STEP][PASSED] - Link = "https://academy.stockbit.com/": null
+
+2022-08-12 15:22:59 - [TEST_STEP][PASSED] - CurrentUrL = getUrl(): Current window's url is: 'https://academy.stockbit.com/'
+
+2022-08-12 15:23:02 - [MESSAGE][PASSED] - Current window's url is: 'https://academy.stockbit.com/'
+
+2022-08-12 15:23:02 - [TEST_STEP][PASSED] - verifyMatch(CurrentUrL, Link, false): Actual text 'https://academy.stockbit.com/' and expected text 'https://academy.stockbit.com/' are matched 
+
+2022-08-12 15:23:02 - [MESSAGE][PASSED] - Actual text 'https://academy.stockbit.com/' and expected text 'https://academy.stockbit.com/' are matched 
+
+2022-08-12 15:23:04 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/3. Academy/1. Verif_Link - click Academy button' .
+
+2022-08-12 15:23:04 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/3. Academy/1. Verif_Link - click Academy button' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/3. Academy/2. Verif_Link - clicks Login button" time="18.995" classname="Test Cases/3. Academy/2. Verif_Link - clicks Login button" status="PASSED">
+         <system-out><![CDATA[2022-08-12 15:23:04 - [TEST_CASE][PASSED] - Test Cases/3. Academy/2. Verif_Link - clicks Login button: Test Cases/3. Academy/2. Verif_Link - clicks Login button
+
+2022-08-12 15:23:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Academy/Page_Stockbit Academy - Belajar Investasi S_881412/button_Login")): Object: 'Object Repository/Academy/Page_Stockbit Academy - Belajar Investasi S_881412/button_Login' is clicked on
+
+2022-08-12 15:23:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Academy/Page_Stockbit Academy - Belajar Investasi S_881412/button_Login' is clicked on
+
+2022-08-12 15:23:14 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2022-08-12 15:23:17 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2022-08-12 15:23:17 - [TEST_STEP][PASSED] - Link = "https://stockbit.com/login?redirect_to=/academy&path=/": null
+
+2022-08-12 15:23:17 - [TEST_STEP][PASSED] - CurrentUrL = getUrl(): Current window's url is: 'https://stockbit.com/login?redirect_to=/academy&path=/'
+
+2022-08-12 15:23:17 - [MESSAGE][PASSED] - Current window's url is: 'https://stockbit.com/login?redirect_to=/academy&path=/'
+
+2022-08-12 15:23:17 - [TEST_STEP][PASSED] - verifyMatch(CurrentUrL, Link, false): Actual text 'https://stockbit.com/login?redirect_to=/academy&path=/' and expected text 'https://stockbit.com/login?redirect_to=/academy&path=/' are matched 
+
+2022-08-12 15:23:17 - [MESSAGE][PASSED] - Actual text 'https://stockbit.com/login?redirect_to=/academy&path=/' and expected text 'https://stockbit.com/login?redirect_to=/academy&path=/' are matched 
+
+2022-08-12 15:23:17 - [TEST_STEP][PASSED] - back(): Navigate back successfully
+
+2022-08-12 15:23:21 - [MESSAGE][PASSED] - Navigate back successfully
+
+2022-08-12 15:23:23 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/3. Academy/2. Verif_Link - clicks Login button' .
+
+2022-08-12 15:23:23 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/3. Academy/2. Verif_Link - clicks Login button' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/3. Academy/3. Verif_Link - clicks Sign Up button" time="13.29" classname="Test Cases/3. Academy/3. Verif_Link - clicks Sign Up button" status="PASSED">
+         <system-out><![CDATA[2022-08-12 15:23:23 - [TEST_CASE][PASSED] - Test Cases/3. Academy/3. Verif_Link - clicks Sign Up button: Test Cases/3. Academy/3. Verif_Link - clicks Sign Up button
+
+2022-08-12 15:23:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Academy/Page_Stockbit Academy - Belajar Investasi S_881412/button_Sign Up")): Object: 'Object Repository/Academy/Page_Stockbit Academy - Belajar Investasi S_881412/button_Sign Up' is clicked on
+
+2022-08-12 15:23:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Academy/Page_Stockbit Academy - Belajar Investasi S_881412/button_Sign Up' is clicked on
+
+2022-08-12 15:23:29 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2022-08-12 15:23:34 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2022-08-12 15:23:34 - [TEST_STEP][PASSED] - Link = "https://stockbit.com/register?redirect_to=/": null
+
+2022-08-12 15:23:34 - [TEST_STEP][PASSED] - CurrentUrL = getUrl(): Current window's url is: 'https://stockbit.com/register?redirect_to=/'
+
+2022-08-12 15:23:34 - [MESSAGE][PASSED] - Current window's url is: 'https://stockbit.com/register?redirect_to=/'
+
+2022-08-12 15:23:34 - [TEST_STEP][PASSED] - verifyMatch(CurrentUrL, Link, false): Actual text 'https://stockbit.com/register?redirect_to=/' and expected text 'https://stockbit.com/register?redirect_to=/' are matched 
+
+2022-08-12 15:23:34 - [MESSAGE][PASSED] - Actual text 'https://stockbit.com/register?redirect_to=/' and expected text 'https://stockbit.com/register?redirect_to=/' are matched 
+
+2022-08-12 15:23:36 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/3. Academy/3. Verif_Link - clicks Sign Up button' .
+
+2022-08-12 15:23:36 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/3. Academy/3. Verif_Link - clicks Sign Up button' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-08-12 15:22:31 - [TEST_SUITE][PASSED] - 3. Academy: Test Cases/3. Academy/3. Verif_Link - clicks Sign Up button]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

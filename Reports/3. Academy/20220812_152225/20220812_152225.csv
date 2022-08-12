@@ -1,0 +1,31 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+3. Academy,Chrome 104.0.5112.81,,,2022-08-12 15:22:31,2022-08-12 15:23:36,1m - 5.525s,PASSED
+,,,,,,,
+Test Cases/3. Academy/1. Verif_Link - click Academy button,Chrome 104.0.5112.81,,,2022-08-12 15:22:32,2022-08-12 15:23:04,32.351s,PASSED
+"openBrowser("""")",Chrome 104.0.5112.81,,,2022-08-12 15:22:33,2022-08-12 15:22:43,9.954s,PASSED
+maximizeWindow(),Chrome 104.0.5112.81,,,2022-08-12 15:22:43,2022-08-12 15:22:44,0.422s,PASSED
+"navigateToUrl(""https://stockbit.com/"")",Chrome 104.0.5112.81,,,2022-08-12 15:22:44,2022-08-12 15:22:54,10.401s,PASSED
+"click(findTestObject(""Object Repository/Academy/Page_Stockbit - Investasi Saham Bersama Kom_14e38f/a_Academy""))",Chrome 104.0.5112.81,,,2022-08-12 15:22:54,2022-08-12 15:22:56,1.369s,PASSED
+switchToWindowIndex(1),Chrome 104.0.5112.81,,,2022-08-12 15:22:56,2022-08-12 15:22:56,0.546s,PASSED
+delay(3),Chrome 104.0.5112.81,,,2022-08-12 15:22:56,2022-08-12 15:22:59,3.235s,PASSED
+"Link = ""https://academy.stockbit.com/""",Chrome 104.0.5112.81,,,2022-08-12 15:22:59,2022-08-12 15:22:59,0.004s,PASSED
+CurrentUrL = getUrl(),Chrome 104.0.5112.81,,,2022-08-12 15:22:59,2022-08-12 15:23:02,2.239s,PASSED
+"verifyMatch(CurrentUrL, Link, false)",Chrome 104.0.5112.81,,,2022-08-12 15:23:02,2022-08-12 15:23:02,0.030s,PASSED
+Video,Chrome 104.0.5112.81,,,2022-08-12 15:23:04,2022-08-12 15:23:04,0.001s,PASSED
+,,,,,,,
+Test Cases/3. Academy/2. Verif_Link - clicks Login button,Chrome 104.0.5112.81,,,2022-08-12 15:23:04,2022-08-12 15:23:23,18.995s,PASSED
+"click(findTestObject(""Object Repository/Academy/Page_Stockbit Academy - Belajar Investasi S_881412/button_Login""))",Chrome 104.0.5112.81,,,2022-08-12 15:23:05,2022-08-12 15:23:14,8.388s,PASSED
+delay(3),Chrome 104.0.5112.81,,,2022-08-12 15:23:14,2022-08-12 15:23:17,3.018s,PASSED
+"Link = ""https://stockbit.com/login?redirect_to=/academy&path=/""",Chrome 104.0.5112.81,,,2022-08-12 15:23:17,2022-08-12 15:23:17,0.002s,PASSED
+CurrentUrL = getUrl(),Chrome 104.0.5112.81,,,2022-08-12 15:23:17,2022-08-12 15:23:17,0.021s,PASSED
+"verifyMatch(CurrentUrL, Link, false)",Chrome 104.0.5112.81,,,2022-08-12 15:23:17,2022-08-12 15:23:17,0.006s,PASSED
+back(),Chrome 104.0.5112.81,,,2022-08-12 15:23:17,2022-08-12 15:23:21,4.001s,PASSED
+Video,Chrome 104.0.5112.81,,,2022-08-12 15:23:23,2022-08-12 15:23:23,0.002s,PASSED
+,,,,,,,
+Test Cases/3. Academy/3. Verif_Link - clicks Sign Up button,Chrome 104.0.5112.81,,,2022-08-12 15:23:23,2022-08-12 15:23:36,13.290s,PASSED
+"click(findTestObject(""Object Repository/Academy/Page_Stockbit Academy - Belajar Investasi S_881412/button_Sign Up""))",Chrome 104.0.5112.81,,,2022-08-12 15:23:24,2022-08-12 15:23:29,4.960s,PASSED
+delay(5),Chrome 104.0.5112.81,,,2022-08-12 15:23:29,2022-08-12 15:23:34,5.014s,PASSED
+"Link = ""https://stockbit.com/register?redirect_to=/""",Chrome 104.0.5112.81,,,2022-08-12 15:23:34,2022-08-12 15:23:34,0.003s,PASSED
+CurrentUrL = getUrl(),Chrome 104.0.5112.81,,,2022-08-12 15:23:34,2022-08-12 15:23:34,0.026s,PASSED
+"verifyMatch(CurrentUrL, Link, false)",Chrome 104.0.5112.81,,,2022-08-12 15:23:34,2022-08-12 15:23:34,0.003s,PASSED
+Video,Chrome 104.0.5112.81,,,2022-08-12 15:23:36,2022-08-12 15:23:36,0.001s,PASSED

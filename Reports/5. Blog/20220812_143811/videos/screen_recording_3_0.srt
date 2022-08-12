@@ -1,0 +1,24 @@
+1
+00:00:00,633 --> 00:00:15,980
+1. click(findTestObject("Object Repository/Blog/Page_Stockbit Snips  Berita Saham/span_Subscribe"))
+
+2
+00:00:15,989 --> 00:00:19,010
+5. delay(3)
+
+3
+00:00:19,011 --> 00:00:19,013
+9. Link = "https://snips.stockbit.com/subscribe"
+
+4
+00:00:19,014 --> 00:00:19,037
+13. CurrentUrL = getUrl()
+
+5
+00:00:19,038 --> 00:00:19,043
+17. verifyMatch(CurrentUrL, Link, false)
+
+6
+00:00:19,044 --> 00:00:21,055
+21. delay(2)
+

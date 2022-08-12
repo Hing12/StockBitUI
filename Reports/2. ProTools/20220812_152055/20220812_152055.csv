@@ -1,0 +1,23 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+2. ProTools,Chrome 104.0.5112.81,,,2022-08-12 15:21:02,2022-08-12 15:21:50,48.334s,PASSED
+,,,,,,,
+Test Cases/2. ProTools/1. Verif_Link - click Pro Tools button,Chrome 104.0.5112.81,,,2022-08-12 15:21:02,2022-08-12 15:21:36,33.463s,PASSED
+"openBrowser("""")",Chrome 104.0.5112.81,,,2022-08-12 15:21:04,2022-08-12 15:21:16,11.866s,PASSED
+maximizeWindow(),Chrome 104.0.5112.81,,,2022-08-12 15:21:16,2022-08-12 15:21:16,0.458s,PASSED
+"navigateToUrl(""https://stockbit.com/"")",Chrome 104.0.5112.81,,,2022-08-12 15:21:16,2022-08-12 15:21:23,6.794s,PASSED
+"click(findTestObject(""Object Repository/ProLink/Page_Stockbit - Investasi Saham Bersama Kom_14e38f/a_Pro Tools""))",Chrome 104.0.5112.81,,,2022-08-12 15:21:23,2022-08-12 15:21:28,5.143s,PASSED
+delay(5),Chrome 104.0.5112.81,,,2022-08-12 15:21:28,2022-08-12 15:21:34,5.075s,PASSED
+"Link = ""https://stockbit.com/info/pro-tools""",Chrome 104.0.5112.81,,,2022-08-12 15:21:34,2022-08-12 15:21:34,0.005s,PASSED
+CurrentUrL = getUrl(),Chrome 104.0.5112.81,,,2022-08-12 15:21:34,2022-08-12 15:21:34,0.085s,PASSED
+"verifyMatch(CurrentUrL, Link, false)",Chrome 104.0.5112.81,,,2022-08-12 15:21:34,2022-08-12 15:21:34,0.026s,PASSED
+Video,Chrome 104.0.5112.81,,,2022-08-12 15:21:36,2022-08-12 15:21:36,0.002s,PASSED
+,,,,,,,
+Test Cases/2. ProTools/2. Verif_Link - clicks BUKA REKENING ANDA,Chrome 104.0.5112.81,,,2022-08-12 15:21:36,2022-08-12 15:21:50,14.064s,PASSED
+"click(findTestObject(""Object Repository/ProLink/Page_Stockbit - Professional Tools Saham Ba_8b0cea/a_Buka Rekening Anda""))",Chrome 104.0.5112.81,,,2022-08-12 15:21:37,2022-08-12 15:21:38,0.745s,PASSED
+delay(5),Chrome 104.0.5112.81,,,2022-08-12 15:21:38,2022-08-12 15:21:43,5.011s,PASSED
+"Link = ""https://stockbit.com/register""",Chrome 104.0.5112.81,,,2022-08-12 15:21:43,2022-08-12 15:21:43,0.003s,PASSED
+CurrentUrL = getUrl(),Chrome 104.0.5112.81,,,2022-08-12 15:21:43,2022-08-12 15:21:43,0.070s,PASSED
+delay(3),Chrome 104.0.5112.81,,,2022-08-12 15:21:43,2022-08-12 15:21:46,3.019s,PASSED
+"verifyMatch(CurrentUrL, Link, false)",Chrome 104.0.5112.81,,,2022-08-12 15:21:46,2022-08-12 15:21:46,0.008s,PASSED
+delay(2),Chrome 104.0.5112.81,,,2022-08-12 15:21:46,2022-08-12 15:21:48,2.019s,PASSED
+Video,Chrome 104.0.5112.81,,,2022-08-12 15:21:50,2022-08-12 15:21:50,0.001s,PASSED

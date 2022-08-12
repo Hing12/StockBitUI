@@ -1,0 +1,36 @@
+1
+00:00:01,491 --> 00:00:11,425
+1. openBrowser("")
+
+2
+00:00:11,453 --> 00:00:11,874
+5. maximizeWindow()
+
+3
+00:00:11,876 --> 00:00:22,276
+9. navigateToUrl("https://stockbit.com/")
+
+4
+00:00:22,278 --> 00:00:23,646
+13. click(findTestObject("Object Repository/Academy/Page_Stockbit - Investasi Saham Bersama Kom_14e38f/a_Academy"))
+
+5
+00:00:23,648 --> 00:00:24,191
+17. switchToWindowIndex(1)
+
+6
+00:00:24,192 --> 00:00:27,422
+21. delay(3)
+
+7
+00:00:27,428 --> 00:00:27,432
+25. Link = "https://academy.stockbit.com/"
+
+8
+00:00:27,433 --> 00:00:29,672
+29. CurrentUrL = getUrl()
+
+9
+00:00:29,673 --> 00:00:29,706
+33. verifyMatch(CurrentUrL, Link, false)
+

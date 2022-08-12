@@ -1,0 +1,33 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+7. No Chaining,Chrome 104.0.5112.81,,,2022-08-12 15:17:14,2022-08-12 15:18:15,1m - 1.859s,PASSED
+,,,,,,,
+Test Cases/7. No Chaining/1. Verif_Link - click Sign Up button,Chrome 104.0.5112.81,,,2022-08-12 15:17:14,2022-08-12 15:17:47,32.529s,PASSED
+"openBrowser("""")",Chrome 104.0.5112.81,,,2022-08-12 15:17:16,2022-08-12 15:17:26,9.540s,PASSED
+maximizeWindow(),Chrome 104.0.5112.81,,,2022-08-12 15:17:26,2022-08-12 15:17:26,0.324s,PASSED
+"navigateToUrl(""https://stockbit.com/"")",Chrome 104.0.5112.81,,,2022-08-12 15:17:26,2022-08-12 15:17:33,7.172s,PASSED
+"click(findTestObject(""Object Repository/Single verify action/Page_Stockbit - Investasi Saham Bersama Kom_14e38f/a_Sign Up""))",Chrome 104.0.5112.81,,,2022-08-12 15:17:33,2022-08-12 15:17:39,5.516s,PASSED
+delay(3),Chrome 104.0.5112.81,,,2022-08-12 15:17:39,2022-08-12 15:17:42,3.065s,PASSED
+"Link = ""https://stockbit.com/register""",Chrome 104.0.5112.81,,,2022-08-12 15:17:42,2022-08-12 15:17:42,0.008s,PASSED
+CurrentUrL = getUrl(),Chrome 104.0.5112.81,,,2022-08-12 15:17:42,2022-08-12 15:17:42,0.128s,PASSED
+"verifyMatch(CurrentUrL, Link, false)",Chrome 104.0.5112.81,,,2022-08-12 15:17:42,2022-08-12 15:17:42,0.028s,PASSED
+back(),Chrome 104.0.5112.81,,,2022-08-12 15:17:42,2022-08-12 15:17:45,2.714s,PASSED
+Video,Chrome 104.0.5112.81,,,2022-08-12 15:17:47,2022-08-12 15:17:47,0.001s,PASSED
+,,,,,,,
+Test Cases/7. No Chaining/2. Verif_Link - click Log In button,Chrome 104.0.5112.81,,,2022-08-12 15:17:47,2022-08-12 15:18:06,19.595s,PASSED
+"click(findTestObject(""Object Repository/Single verify action/Page_Stockbit - Investasi Saham Bersama Kom_14e38f/a_Log In""))",Chrome 104.0.5112.81,,,2022-08-12 15:17:48,2022-08-12 15:17:54,6.189s,PASSED
+delay(3),Chrome 104.0.5112.81,,,2022-08-12 15:17:54,2022-08-12 15:17:57,3.021s,PASSED
+"Link = ""https://stockbit.com/login""",Chrome 104.0.5112.81,,,2022-08-12 15:17:57,2022-08-12 15:17:57,0.005s,PASSED
+CurrentUrL = getUrl(),Chrome 104.0.5112.81,,,2022-08-12 15:17:57,2022-08-12 15:17:57,0.033s,PASSED
+"verifyMatch(CurrentUrL, Link, false)",Chrome 104.0.5112.81,,,2022-08-12 15:17:57,2022-08-12 15:17:57,0.013s,PASSED
+back(),Chrome 104.0.5112.81,,,2022-08-12 15:17:57,2022-08-12 15:18:04,7.048s,PASSED
+Video,Chrome 104.0.5112.81,,,2022-08-12 15:18:06,2022-08-12 15:18:06,0.001s,PASSED
+,,,,,,,
+Test Cases/7. No Chaining/3. Verif_Link - click Mulai Berinvestasi button,Chrome 104.0.5112.81,,,2022-08-12 15:18:06,2022-08-12 15:18:15,9.064s,PASSED
+"click(findTestObject(""Object Repository/Single verify action/Page_Stockbit - Investasi Saham Bersama Kom_14e38f/a_Mulai Berinvestasi""))",Chrome 104.0.5112.81,,,2022-08-12 15:18:07,2022-08-12 15:18:08,0.785s,PASSED
+switchToWindowIndex(1),Chrome 104.0.5112.81,,,2022-08-12 15:18:08,2022-08-12 15:18:09,0.536s,PASSED
+delay(3),Chrome 104.0.5112.81,,,2022-08-12 15:18:09,2022-08-12 15:18:12,3.011s,PASSED
+"Link = ""https://stockbit.com/register""",Chrome 104.0.5112.81,,,2022-08-12 15:18:12,2022-08-12 15:18:12,0.007s,PASSED
+CurrentUrL = getUrl(),Chrome 104.0.5112.81,,,2022-08-12 15:18:12,2022-08-12 15:18:13,1.359s,PASSED
+"verifyMatch(CurrentUrL, Link, false)",Chrome 104.0.5112.81,,,2022-08-12 15:18:13,2022-08-12 15:18:13,0.007s,PASSED
+closeWindowIndex(1),Chrome 104.0.5112.81,,,2022-08-12 15:18:13,2022-08-12 15:18:13,0.274s,PASSED
+Video,Chrome 104.0.5112.81,,,2022-08-12 15:18:15,2022-08-12 15:18:15,0.001s,PASSED

@@ -1,0 +1,24 @@
+1
+00:00:01,255 --> 00:00:09,635
+1. click(findTestObject("Object Repository/Academy/Page_Stockbit Academy - Belajar Investasi S_881412/button_Login"))
+
+2
+00:00:09,644 --> 00:00:12,662
+5. delay(3)
+
+3
+00:00:12,663 --> 00:00:12,665
+9. Link = "https://stockbit.com/login?redirect_to=/academy&path=/"
+
+4
+00:00:12,666 --> 00:00:12,687
+13. CurrentUrL = getUrl()
+
+5
+00:00:12,688 --> 00:00:12,693
+17. verifyMatch(CurrentUrL, Link, false)
+
+6
+00:00:12,695 --> 00:00:16,699
+21. back()
+

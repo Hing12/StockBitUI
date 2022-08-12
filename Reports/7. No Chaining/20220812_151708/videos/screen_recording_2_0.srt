@@ -1,0 +1,24 @@
+1
+00:00:01,019 --> 00:00:07,200
+1. click(findTestObject("Object Repository/Single verify action/Page_Stockbit - Investasi Saham Bersama Kom_14e38f/a_Log In"))
+
+2
+00:00:07,207 --> 00:00:10,228
+5. delay(3)
+
+3
+00:00:10,229 --> 00:00:10,233
+9. Link = "https://stockbit.com/login"
+
+4
+00:00:10,235 --> 00:00:10,267
+13. CurrentUrL = getUrl()
+
+5
+00:00:10,269 --> 00:00:10,280
+17. verifyMatch(CurrentUrL, Link, false)
+
+6
+00:00:10,283 --> 00:00:17,334
+21. back()
+

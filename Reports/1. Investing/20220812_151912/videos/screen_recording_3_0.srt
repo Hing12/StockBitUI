@@ -1,0 +1,40 @@
+1
+00:00:00,983 --> 00:00:05,993
+1. delay(5)
+
+2
+00:00:05,999 --> 00:00:06,521
+5. sendKeys(null, Keys.chord(PAGE_DOWN, PAGE_DOWN, PAGE_DOWN, PAGE_DOWN, PAGE_DOWN, PAGE_DOWN, PAGE_DOWN, PAGE_UP))
+
+3
+00:00:06,523 --> 00:00:07,927
+9. click(findTestObject("Object Repository/Investing/Page_Stockbit - Mulai Investasi Saham/a_Buka Rekening Anda"))
+
+4
+00:00:07,928 --> 00:00:12,942
+13. delay(5)
+
+5
+00:00:12,943 --> 00:00:13,086
+17. switchToWindowIndex(1)
+
+6
+00:00:13,089 --> 00:00:13,093
+21. Link = "https://stockbit.com/register"
+
+7
+00:00:13,095 --> 00:00:13,266
+25. CurrentUrL = getUrl()
+
+8
+00:00:13,267 --> 00:00:16,284
+29. delay(3)
+
+9
+00:00:16,285 --> 00:00:16,292
+33. verifyMatch(CurrentUrL, Link, false)
+
+10
+00:00:16,295 --> 00:00:18,316
+37. delay(2)
+

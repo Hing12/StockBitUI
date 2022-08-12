@@ -1,0 +1,28 @@
+1
+00:00:00,988 --> 00:00:01,726
+1. click(findTestObject("Object Repository/ProLink/Page_Stockbit - Professional Tools Saham Ba_8b0cea/a_Buka Rekening Anda"))
+
+2
+00:00:01,733 --> 00:00:06,744
+5. delay(5)
+
+3
+00:00:06,745 --> 00:00:06,747
+9. Link = "https://stockbit.com/register"
+
+4
+00:00:06,749 --> 00:00:06,817
+13. CurrentUrL = getUrl()
+
+5
+00:00:06,819 --> 00:00:09,838
+17. delay(3)
+
+6
+00:00:09,839 --> 00:00:09,846
+21. verifyMatch(CurrentUrL, Link, false)
+
+7
+00:00:09,847 --> 00:00:11,868
+25. delay(2)
+

@@ -1,0 +1,8 @@
+1
+00:00:00,844 --> 00:00:05,876
+1. delay(5)
+
+2
+00:00:05,885 --> 00:00:07,541
+5. click(findTestObject("Object Repository/Investing/Page_Stockbit - Mulai Investasi Saham/icon-widget_support"))
+
